@@ -1,6 +1,7 @@
 - Hi, I’m @LPHoekstra
-- I’m interested in web dev front-end and back-end
-- learning HTML / CSS / JAVASCRIPT / REACT
+- I’m interested in web dev front and back
+- Front stack HTML / CSS / TS / React / Angular
+- Back stack Java / Spring
 
 <!---
 MalBourbie/MalBourbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
